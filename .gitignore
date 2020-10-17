@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/consumer/build/
+/consumer/build/classes/java/main/
+/producer/build/
+/producer/build/classes/java/main/
+/task/build/
+/task/build/classes/java/main/
+/task/build/classes/java/test/

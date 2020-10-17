@@ -1,0 +1,5 @@
+rootProject.name = 'spmc-demo'
+
+include 'task'
+include 'producer'
+include 'consumer'

@@ -1,0 +1,7 @@
+archivesBaseName = 'spmc-consumer'
+dependencies {
+    compile(
+            project(':task'),
+            group: 'com.rabbitmq', name: 'amqp-client', version: '3.6.5'
+    )
+}
